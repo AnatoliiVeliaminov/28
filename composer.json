@@ -1,0 +1,15 @@
+{
+    "name": "amper/28",
+    "authors": [
+        {
+            "name": "Anatolii Vel",
+            "email": "anatoliy.velyaminov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
